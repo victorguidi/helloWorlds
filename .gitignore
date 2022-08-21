@@ -5,3 +5,8 @@ kotlin/META-INF
 java/Hello.class
 Cpp/hello.out
 C/hello.out
+julia/.tool-versions
+scala/.tool-versions
+scala/Hello$.class
+scala/Hello.tasty
+scala/Hello.class
