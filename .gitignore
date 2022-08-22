@@ -10,3 +10,5 @@ scala/.tool-versions
 scala/Hello$.class
 scala/Hello.tasty
 scala/Hello.class
+erlang/.tool-versions
+erlang/hello.beam
