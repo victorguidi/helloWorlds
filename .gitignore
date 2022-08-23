@@ -12,3 +12,4 @@ scala/Hello.tasty
 scala/Hello.class
 erlang/.tool-versions
 erlang/hello.beam
+clojure/.tool-versions
