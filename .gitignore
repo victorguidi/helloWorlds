@@ -13,3 +13,6 @@ scala/Hello.class
 erlang/.tool-versions
 erlang/hello.beam
 clojure/.tool-versions
+dart/.tool-versions
+.clj-kondo/.cache/v1
+.lsp/.cache
